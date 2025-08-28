@@ -1,0 +1,35 @@
+.skills{
+    display: flex;
+    flex-direction: column;
+    
+}
+.sheading{
+    position: relative;
+    left: 800px;
+    color:gold;
+    font-weight: 900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    background-color: rgb(93, 230, 207);
+    width: 100%;
+    padding:10px;
+    text-decoration: none;
+    color:rgb(237, 24, 88)
+}
+.rest{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    text-decoration:none;
+    
+    width:600px;
+}
+ul{
+    font-size: x-large;
+    font-weight: 700;
+}
